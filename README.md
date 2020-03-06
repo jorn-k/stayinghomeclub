@@ -72,6 +72,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Google Cloud Next](https://cloud.withgoogle.com/next/sf/): online-only
 - [Google I/O](https://events.google.com/io/): online-only
 - [Google Tensorflow Dev Summit](https://www.tensorflow.org/dev-summit/): online-only
+- [HashiCorp Consul Workshop - Minneaplis](https://events.hashicorp.com/workshops/minneapolis): Online-Only
 - [IBM Think 2020](https://www.ibm.com/events/think/): online-only
 - [ICANN 67](https://www.icann.org/news/announcement-2020-02-19-en): online-only
 - [Internet Freedom Summit](https://internetfreedomfestival.org/wiki/index.php/Cancellation_of_the_2020_Internet_Freedom_Festival): cancelled
